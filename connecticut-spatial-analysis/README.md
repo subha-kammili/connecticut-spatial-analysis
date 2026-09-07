@@ -64,14 +64,14 @@ This project demonstrates my ability to work with:
 ```text
 connecticut-spatial-analysis/
 │
-├── project/
-│   └── Kammili_Subha_A_Spatial_Analysis_of_Connecticut_Communities.ipynb
-│
 ├── data/
 │   ├── Children_by_Family_Type_Dataset.csv
 │   ├── Educational_Attainment_Dataset.csv
 │   ├── English_Proficiency_Dataset.csv
 │   └── CT_Vicinity_Town_Polygon.shp
+│
+├── project/
+│   └── spatial_analysis_connecticut.ipynb
 │
 └── README.md
 ```
