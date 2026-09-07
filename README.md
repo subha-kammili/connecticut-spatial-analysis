@@ -59,10 +59,17 @@ This project demonstrates my ability to work with:
 **Repository Contents:**
 connecticut-spatial-analysis/
 │
-├── README.md
-├── Kammili_Subha_A_Spatial_Analysis_of_Connecticut_Communities.ipynb
+├── project/
+│   └── Kammili_Subha_A_Spatial_Analysis_of_Connecticut_Communities.ipynb
+│
 ├── data/
-└── images/
+│   └── Children_by_Family_Type_Dataset.csv
+│   └── Educational_Attainment_Dataset.csv
+│   └── English_Proficiency_Dataset.csv
+│   └── CT_Vicinity_Town_Polygon.shp
+│
+├── README.md
+└── requirements.txt
 
 **Subha Kammili**
 Business Data Analytics | MS Business Analytics & Project Management
