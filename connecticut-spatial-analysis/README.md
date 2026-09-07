@@ -72,8 +72,7 @@ connecticut-spatial-analysis/
 │   └── English_Proficiency_Dataset.csv
 │   └── CT_Vicinity_Town_Polygon.shp
 │
-├── README.md
-└── requirements.txt
+└── README.md
 
 **Subha Kammili**
 Business Data Analytics | MS Business Analytics & Project Management
