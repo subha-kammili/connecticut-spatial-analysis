@@ -25,12 +25,14 @@ Three datasets from the Connecticut Data Collaborative were combined with 169 to
 - Spatial Resampling
 
 **Data Sources:**
+
 The project uses publicly available geographic and socioeconomic datasets, including:
 - Connecticut Data Collaborative — town-level datasets
 - Connecticut Department of Energy & Environmental Protection — Connecticut town boundaries
 - U.S. Census Bureau TIGER/Line geographic data
 
 **Methodology:**
+
 The analysis follows several major steps:
 
 1. Load and inspect the three datasets.
@@ -45,6 +47,7 @@ The analysis follows several major steps:
 10. Interpret spatial trends and areas of greater uncertainty.
 
 **Key Skills Demonstrated:**
+
 This project demonstrates my ability to work with:
 
 - Real-world messy datasets
@@ -57,6 +60,7 @@ This project demonstrates my ability to work with:
 - Comparative geographic analysis
 
 **Repository Contents:**
+
 connecticut-spatial-analysis/
 │
 ├── project/
