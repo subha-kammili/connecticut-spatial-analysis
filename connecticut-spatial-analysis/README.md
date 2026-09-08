@@ -1,9 +1,9 @@
 # Mapping Change/Uncertainty: A Spatial Analysis of Connecticut Communities
-**Project Overview:**
+## Project Overview:
 This project uses Python and geospatial analysis to examine demographic and socioeconomic changes across Connecticut communities.
 Three datasets from the Connecticut Data Collaborative were combined with 169 town boundaries to analyze how selected community characteristics changed over time. The analysis also incorporates margins of error to visualize uncertainty and includes a county-level resampling analysis for broader geographic comparison.
 
-**Objectives:**
+## Objectives:
 - Clean and transform multiple town-level datasets
 - Reshape datasets from long to wide format
 - Join socioeconomic data with Connecticut geographic boundaries
@@ -13,7 +13,7 @@ Three datasets from the Connecticut Data Collaborative were combined with 169 to
 - Resample town-level information to county-level geography
 - Identify spatial patterns and changes across Connecticut
 
-**Technologies Used:**
+## Technologies Used:
 - Python
 - Pandas
 - GeoPandas
@@ -24,14 +24,14 @@ Three datasets from the Connecticut Data Collaborative were combined with 169 to
 - Data Visualization
 - Spatial Resampling
 
-**Data Sources:**
+## Data Sources:
 
 The project uses publicly available geographic and socioeconomic datasets, including:
 - Connecticut Data Collaborative — town-level datasets
 - Connecticut Department of Energy & Environmental Protection — Connecticut town boundaries
 - U.S. Census Bureau TIGER/Line geographic data
 
-**Methodology:**
+## Methodology:
 
 The analysis follows several major steps:
 
@@ -46,7 +46,7 @@ The analysis follows several major steps:
 9. Resample one variable from town-level to county-level geography.
 10. Interpret spatial trends and areas of greater uncertainty.
 
-**Key Skills Demonstrated:**
+## Key Skills Demonstrated:
 
 This project demonstrates my ability to work with:
 
@@ -59,7 +59,7 @@ This project demonstrates my ability to work with:
 - Data visualization
 - Comparative geographic analysis
 
-**Repository Contents:**
+## Repository Contents:
 
 ```text
 connecticut-spatial-analysis/
